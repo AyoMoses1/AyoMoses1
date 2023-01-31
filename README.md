@@ -8,11 +8,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Remote Software Development at Microverse.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Product Management and Project Development.
-- ✍️ &nbsp; Pursuing Trauining and Human Development as hobbies/side hustles.
+- 💼 &nbsp; Interested in smart cities, smart homes, robotics, and drones.
+- 🌱 &nbsp; Curious about Product Management and Project Development.
+- ✍️ &nbsp; Interested in speaking at Conferences.
 
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
