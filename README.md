@@ -47,7 +47,7 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AyoMoses1&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AyoMoses1&show_icons=true&hide_border=true&theme=radical))
 
 <!-- Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777) -->
 
